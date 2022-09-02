@@ -1,0 +1,47 @@
+.button{
+    position: relative;
+    bottom: -40px;
+    left: 190px;
+    width: 59px;
+    height: 59px;
+
+    border: none;
+    background-color: rgba(47, 213, 28, 0.123);
+    border-radius: 50%;
+    transition-duration: 0.4s;
+}
+.button{
+    position: relative;
+    bottom: -40px;
+    left: 190px;
+    width: 59px;
+    height: 59px;
+
+    border: none;
+    background-color: rgba(47, 213, 28, 0.123);
+    border-radius: 50%;
+    transition-duration: 0.4s;
+}
+.button{
+    position: relative;
+    bottom: -40px;
+    left: 190px;
+    width: 59px;
+    height: 59px;
+
+    border: none;
+    background-color: rgba(47, 213, 28, 0.123);
+    border-radius: 50%;
+    transition-duration: 0.4s;
+}
+.button:hover{
+    background-color: rgba(175, 239, 175, 0.288);
+}
+.counter{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 1000px;
+    left: 0px;
+}
+
+

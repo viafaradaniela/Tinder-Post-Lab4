@@ -1,0 +1,37 @@
+.template1{
+    position: relative;
+ right: 645px;
+}
+.pp1{
+    position: relative;
+    top: -50px;
+    right: 325px;
+}
+.P1{
+   color: rgb(255, 255, 255);
+    font-family: 'PT Sans', sans-serif;
+    position: relative;
+    top: -240px;
+    left: 52px;
+ font-size: 15px; 
+}
+.template2{
+    position: relative;
+    left: -540px;
+}
+.template3{
+    position: relative;
+    left: -260px;
+    bottom: -100px;
+}
+.template4{
+    position: relative;
+    right: 523px;
+    bottom: -100px;
+}
+.rectangulo1{
+    position: relative;
+    right: 0px;
+
+}
+
